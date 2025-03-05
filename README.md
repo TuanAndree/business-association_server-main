@@ -4,7 +4,7 @@
 
 Bước 1. Clone project về máy:
 
-- Client: git clone https://github.com/TuanAndree/business-association_client-main.git
+- Client: git clone https://github.com/TuanAndree/business-association_client-main-main.git
 - Server: git clone https://github.com/TuanAndree/business-association_server-main.git
 
 Bước 2: Truy cập vào thư mục src của 2 project và mở terminal ở vị trí này, thực hiện các lệnh (ở cả 2 project):
